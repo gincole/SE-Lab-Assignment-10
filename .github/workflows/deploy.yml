@@ -21,4 +21,4 @@ jobs:
           firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT }}"
           projectId: cicd1-8748d
           channelId: live
-          
+        
